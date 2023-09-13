@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A4F5BD5B2AB26CAF00957561 /* PlayWithAlphaNumVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F5BD5A2AB26CAF00957561 /* PlayWithAlphaNumVCViewController.swift */; };
 		EBD016602AAF7A1F00EAC555 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD0165F2AAF7A1F00EAC555 /* AppDelegate.swift */; };
 		EBD016622AAF7A1F00EAC555 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD016612AAF7A1F00EAC555 /* SceneDelegate.swift */; };
 		EBD016642AAF7A1F00EAC555 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD016632AAF7A1F00EAC555 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A4F5BD5A2AB26CAF00957561 /* PlayWithAlphaNumVCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayWithAlphaNumVCViewController.swift; sourceTree = "<group>"; };
 		EBD0165C2AAF7A1F00EAC555 /* PlayWithAlphaNumericsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlayWithAlphaNumericsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBD0165F2AAF7A1F00EAC555 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EBD016612AAF7A1F00EAC555 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				EBD016612AAF7A1F00EAC555 /* SceneDelegate.swift */,
 				EBD016632AAF7A1F00EAC555 /* ViewController.swift */,
 				EBD016652AAF7A1F00EAC555 /* Main.storyboard */,
+				A4F5BD5A2AB26CAF00957561 /* PlayWithAlphaNumVCViewController.swift */,
 				EBD016682AAF7A2000EAC555 /* Assets.xcassets */,
 				EBD0166A2AAF7A2000EAC555 /* LaunchScreen.storyboard */,
 				EBD0166D2AAF7A2000EAC555 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EBD016642AAF7A1F00EAC555 /* ViewController.swift in Sources */,
+				A4F5BD5B2AB26CAF00957561 /* PlayWithAlphaNumVCViewController.swift in Sources */,
 				EBD016602AAF7A1F00EAC555 /* AppDelegate.swift in Sources */,
 				EBD016622AAF7A1F00EAC555 /* SceneDelegate.swift in Sources */,
 			);
